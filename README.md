@@ -31,7 +31,7 @@ Para la elaboración de este proyecto se utilizó Python y Pandas para los proce
 
 Luego, para la obtención complementaria de datos para el cálculo de la población en el año 2021 se realizó webscraping utilizando la librería BeautifulSoup. Todos los detalles se explican [aquí](Jupyter_Notebooks\02_Datos_poblacion_CABA.ipynb).
 
-Finalmente, para la construcción de un dashboard interactivo se utiliza Power BI, el cuál se puede consultar [aquí](PI2_homicidios.pbix).
+Finalmente, para la construcción de un dashboard interactivo se utiliza Power BI, el cuál se puede consultar [aquí](PI2_homicidios.pbix). También se puede visualizar online en este [link](https://www.novypro.com/project/homicidios-por-siniestros-viales-en-la-ciudad-aut%C3%B3noma-de-buenos-aires-argentina).
 
 ## ETL y EDA
 
